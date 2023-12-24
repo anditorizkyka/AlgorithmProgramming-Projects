@@ -1,2 +1,2 @@
 # CollegeProjects
-a repositories with a lots of projects during school
+This my 1st year project in Telkom University to learn about Algorithm like subProgram, basic programming, and sorting Alogirtm.
